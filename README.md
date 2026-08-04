@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1>Hi, I'm Angela Woods! <br/><a 
+href="https://www.linkedin.com/in/angeladwoods/">Data Analyst</a>
+</h1>
 
-<!--
-**Kamey-26/Kamey-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>📊Data Analytics Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>💾SQL Project</b>
+  - [Food and Beverage Revenue Analysis for Arts Nonprofit](COPY AND PASTE YOUR GITHUB PROJECT URL LINK HERE)
+  
+<h2>📚Certifications:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>📜April 2026 Data Analytics Career Accelerator Program</b>
+  - Demonstrated competency in SQL and Power BI through hands-on business reporting, data analysis, and interactive dashboard development. (COPY AND PASTE YOUR CERTIFICATE OF COMPLETION URL LINK HERE)
+
+
+<h2>📱Connect with me:</h2>
+<a href="www.linkedin.com/in/angeladwoods" target="_blank">
+  <img align="left" alt="Angela Woods" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
