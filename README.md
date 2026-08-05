@@ -6,6 +6,9 @@ href="https://www.linkedin.com/in/angeladwoods/">Data Analyst</a>
 
 - <b>💾SQL Project</b>
   - [Food and Beverage Revenue Analysis for Arts Nonprofit](COPY AND PASTE YOUR GITHUB PROJECT URL LINK HERE)
+ 
+- <b>💾Power BI Project</b>
+  - [Food and Beverage Revenue Analysis for Arts Nonprofit](COPY AND PASTE YOUR GITHUB PROJECT URL LINK HERE)  - 
   
 <h2>📚Certifications:</h2>
 
